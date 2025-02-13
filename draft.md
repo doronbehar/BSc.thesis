@@ -5,11 +5,12 @@ Our $\Delta_{PV}$ measurement plan, broadly speaking consists of (1) initializin
 Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at the end of the thesis. This LASER is required for optical pumping 1% of the Yb+ ions that are supposed to sympathetically cool our CHDBrI+.
 # Introduction
 ## What are chiral molecules?
-<!--TODO: Slightly copy from Itay Erez's thesis? Or simply cite it?
-## Our experiment scheme
-## 
+<!--TODO: Slightly copy from Itay Erez's thesis? Or simply cite it? -->
+<!--TODO: Explain in more detail about IVR -->
+## Our experimental scheme
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzY0OTk4NCwyNDg4MzUyMjksLTU1MD
+eyJoaXN0b3J5IjpbMTIyODE4MzYyOSwyNDg4MzUyMjksLTU1MD
 MyNTQxMywtMTEyNjMzOTk5NCwxMDA1Nzg2Nzc4LC0xMzQ3MTA3
 MDU3LC02MDQwNjMwMSwtMzY4NjYwODg3LC0xMjYxMjMwMDM3LD
 U0MTUwNTQ4MCwxNzY0NzQ1OTM5LDExMzYzMzA5NDQsLTE5NjMx
