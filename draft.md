@@ -19,6 +19,7 @@ Frequencies..., pseudo,
 ### Cooling
 Detuning and intensity were barely studied in previous research..., cooler (Yb/Ca/Be)
 <!-- Mention the relation of intensity to mW/cm^2-->
+<!-- Mention the relation of intensity to mW/cm^2-->
 ### Technical
 Cooling, stabilizing time, rf divisor 
 <!-- Mention the challenge of initializing the system in a thermodynamic stable condition -->
@@ -26,18 +27,20 @@ Cooling, stabilizing time, rf divisor
 ## Output Result Types
 <!-- What kind of scalar results from the measurements are of interest to us? T_final, T_middle etc, mention also the cloud sizes and the relation to the experiment's measurement methods -->
 <!-- Naturally, explain the behavior of the cooling regimes etc. -->
-# Computational Challenges prior to Simulations
+# Computational Challenges prior to Simulating
 ## Converting Secular Frequencies to Electric Fields
 ## Initial Conditions Thermodynamic Stability
 # Cooling Simulations
-## 
+## LASER cooling
+### Introduction
+## Dependence
 # Appendix: Simulation Software Manual & Technical Details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg4NDg5NywxMDIxMzg5MTIxLC0xMT
-c4NDkwMTk2LC05Njc0MzU2ODEsLTE1OTgyMjMsMTE3NzY4MTc4
-LC00NDYzMTU1NjcsMTEzNjg5NzkyNywyNDg4MzUyMjksLTU1MD
-MyNTQxMywtMTEyNjMzOTk5NCwxMDA1Nzg2Nzc4LC0xMzQ3MTA3
-MDU3LC02MDQwNjMwMSwtMzY4NjYwODg3LC0xMjYxMjMwMDM3LD
-U0MTUwNTQ4MCwxNzY0NzQ1OTM5LDExMzYzMzA5NDQsLTE5NjMx
-NzgwNF19
+eyJoaXN0b3J5IjpbLTIwNjgxMDUxNDQsLTE5NDg4NDg5NywxMD
+IxMzg5MTIxLC0xMTc4NDkwMTk2LC05Njc0MzU2ODEsLTE1OTgy
+MjMsMTE3NzY4MTc4LC00NDYzMTU1NjcsMTEzNjg5NzkyNywyND
+g4MzUyMjksLTU1MDMyNTQxMywtMTEyNjMzOTk5NCwxMDA1Nzg2
+Nzc4LC0xMzQ3MTA3MDU3LC02MDQwNjMwMSwtMzY4NjYwODg3LC
+0xMjYxMjMwMDM3LDU0MTUwNTQ4MCwxNzY0NzQ1OTM5LDExMzYz
+MzA5NDRdfQ==
 -->
