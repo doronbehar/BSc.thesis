@@ -26,14 +26,14 @@ Cooling, stabilizing time, rf divisor
 ## Output Result Types
 <!-- What kind of scalar results from the measurements are of interest to us? T_final, T_middle etc, mention also the cloud sizes and the relation to the experiment's measurement methods -->
 <!-- Naturally, explain the behavior of the cooling regimes etc. -->
-# Computational Challenges before Simulating
+# Computational Challenges prior to Simulations
 ## Converting Secular Frequencies to Electric Fields
 ## Initial Conditions Thermodynamic Stability
 # Cooling Simulations
 ## 
 # Appendix: Simulation Software Manual & Technical Details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjU0NzE4NiwxMDIxMzg5MTIxLC0xMT
+eyJoaXN0b3J5IjpbLTE5NDg4NDg5NywxMDIxMzg5MTIxLC0xMT
 c4NDkwMTk2LC05Njc0MzU2ODEsLTE1OTgyMjMsMTE3NzY4MTc4
 LC00NDYzMTU1NjcsMTEzNjg5NzkyNywyNDg4MzUyMjksLTU1MD
 MyNTQxMywtMTEyNjMzOTk5NCwxMDA1Nzg2Nzc4LC0xMzQ3MTA3
