@@ -10,7 +10,7 @@ Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at th
 ## Our experimental scheme
 <!-- Explain about our the general scheme, or cite something? -->
 <!-- Explain about our ion trap in details, especially details relevant to the velocity / kinetic energy resolution required and hence the maximal temperatures required.-->
-<!-- Show the level diagram for Yb+ and from there justify the need for a 935nm LASER ; refer t-->
+<!-- Show the level diagram for Yb+ and from there justify the need for a 935nm LASER -->
 ### Comparison to typical molecular ion trapping setups
 ### All trapping and cooling parameters
 <!-- Mention the challenge of initializing the system in a thermodynamic stable condition -->
@@ -18,7 +18,7 @@ Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at th
 <!-- What kind of scalar results from the measurements are of interest to us? T_final, T_middle etc, mention also the cloud sizes and the relation to the experiment's measurement methods -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTM2MTMyNSwtOTY3NDM1NjgxLC0xNT
+eyJoaXN0b3J5IjpbMjAxNDI5ODUzOCwtOTY3NDM1NjgxLC0xNT
 k4MjIzLDExNzc2ODE3OCwtNDQ2MzE1NTY3LDExMzY4OTc5Mjcs
 MjQ4ODM1MjI5LC01NTAzMjU0MTMsLTExMjYzMzk5OTQsMTAwNT
 c4Njc3OCwtMTM0NzEwNzA1NywtNjA0MDYzMDEsLTM2ODY2MDg4
