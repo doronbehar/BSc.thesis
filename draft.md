@@ -4,12 +4,13 @@ Standard model numerical calculations predict this weak force shift, also referr
 The C-H wag vibrational frequency of our candidate enantiomers, as well as for other molecules we considered, is roughly $23\pm 4 \,\mathrm{cm^{-1}}$ times higher then the lowest frequency vibration, with 7 additional vibrational frequencies in between. This implies that the lifetime of the excited C-H wag vibrating state of any of our most promising candidate molecules will be limited by intra-molecular vibration redistribution (IVR). An estimate of the extent of this limitation was calculated numerically and it's results are described in detail in this thesis. In <!--TODO: cite--> you can find a brief summary of the results.
 Our $\Delta_{PV}$ measurement plan, broadly speaking consists of (1) initializing our candidate molecule (CHDBrI), (2) ionizing it, (3) sympathetically cool it with an easily LASER cooled metal (Yb+ in our current attempts), (4) employ a 3 wave mixing technique to create an enantiomer-selective quantum interference, which separates enantiomers into different quantum state. <!--TODO: Cite Itay's thesis, or our group's articles, an article about sympathetic cooling-->
 Sympathetically cooling a molecule is well known, already accomplished achievement, <!--TODO: Cite a few examples -->. However, _our_ measurement plan is substantially different from the typical experimental schemes employed in other experiments in which molecules are sympathetically cooled, because the molecule initialization is not trivial. In our experiment's plan the molecule is trapped for periods $<100ms$, and hence the cooling must be as effective as possible. Not only that, our trap design is unique in the field of ion trapping and cooling, and it provides us a flexible range of secular frequencies that are not used often. A brief comparison to typical trapping experiments is laid out in the introduction. <!--TODO: hyperlink--> This non-typical setup and requirements invites a thorough simulations based research on the parameter space of the trapping & LASER cooling, which is the main topic of this thesis.
-Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at the end of the thesis. This LASER is required for optical pumping 1% of the cooling Yb treated as an ideal two level system `369nm` throughout the rest of the si
+Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at the end of the thesis. This LASER is required for optical pumping 1% of the Yb+ ions that are supposed to sympathetically cool our CHDBrI+.
+# In
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDcyMTU5NCwtNTUwMzI1NDEzLC0xMT
-I2MzM5OTk0LDEwMDU3ODY3NzgsLTEzNDcxMDcwNTcsLTYwNDA2
-MzAxLC0zNjg2NjA4ODcsLTEyNjEyMzAwMzcsNTQxNTA1NDgwLD
-E3NjQ3NDU5MzksMTEzNjMzMDk0NCwtMTk2MzE3ODA0LDc1ODA3
-NzY3NSwtMTg1NTIzMzk5MiwtMjA4ODc0NjYxMiwtMzMyNDU1Mz
-YzXX0=
+eyJoaXN0b3J5IjpbLTE4MDAzMjIxNjIsLTU1MDMyNTQxMywtMT
+EyNjMzOTk5NCwxMDA1Nzg2Nzc4LC0xMzQ3MTA3MDU3LC02MDQw
+NjMwMSwtMzY4NjYwODg3LC0xMjYxMjMwMDM3LDU0MTUwNTQ4MC
+wxNzY0NzQ1OTM5LDExMzYzMzA5NDQsLTE5NjMxNzgwNCw3NTgw
+Nzc2NzUsLTE4NTUyMzM5OTIsLTIwODg3NDY2MTIsLTMzMjQ1NT
+M2M119
 -->
