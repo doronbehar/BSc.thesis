@@ -27,14 +27,15 @@ Cooling, stabilizing time, rf divisor
 <!-- What kind of scalar results from the measurements are of interest to us? T_final, T_middle etc, mention also the cloud sizes and the relation to the experiment's measurement methods -->
 <!-- Naturally, explain the behavior of the cooling regimes etc. -->
 # Computational Challenges before Simulating
-## Converting Secular Frequencies to electrical 
+## Converting Secular Frequencies to Electric Fields
+## Initial Conditions Thermodynamic Stability
 # Appendix: Simulation Software Manual & Technical Details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0MjU3OTc2LDEwMjEzODkxMjEsLTExNz
-g0OTAxOTYsLTk2NzQzNTY4MSwtMTU5ODIyMywxMTc3NjgxNzgs
-LTQ0NjMxNTU2NywxMTM2ODk3OTI3LDI0ODgzNTIyOSwtNTUwMz
-I1NDEzLC0xMTI2MzM5OTk0LDEwMDU3ODY3NzgsLTEzNDcxMDcw
-NTcsLTYwNDA2MzAxLC0zNjg2NjA4ODcsLTEyNjEyMzAwMzcsNT
-QxNTA1NDgwLDE3NjQ3NDU5MzksMTEzNjMzMDk0NCwtMTk2MzE3
-ODA0XX0=
+eyJoaXN0b3J5IjpbLTE1MDY3NzM2ODksMTAyMTM4OTEyMSwtMT
+E3ODQ5MDE5NiwtOTY3NDM1NjgxLC0xNTk4MjIzLDExNzc2ODE3
+OCwtNDQ2MzE1NTY3LDExMzY4OTc5MjcsMjQ4ODM1MjI5LC01NT
+AzMjU0MTMsLTExMjYzMzk5OTQsMTAwNTc4Njc3OCwtMTM0NzEw
+NzA1NywtNjA0MDYzMDEsLTM2ODY2MDg4NywtMTI2MTIzMDAzNy
+w1NDE1MDU0ODAsMTc2NDc0NTkzOSwxMTM2MzMwOTQ0LC0xOTYz
+MTc4MDRdfQ==
 -->
