@@ -15,18 +15,18 @@ Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at th
 ## All trapping and cooling parameters
 From the point of view of a computer simulation, all the parameters can be divided to the groups laid out below:
 ### Trapping
-Frequencies
+Frequencies..., ps
 ### Cooling
 Detuning and intensity were barely studied in previous research...
 ### Technical
-cooling, stabilizing time
+Cooling, stabilizing time, rf divisor 
 <!-- Mention the challenge of initializing the system in a thermodynamic stable condition -->
 <!-- Mention the relation of intensity to mW/cm^2-->
 ## Output results types
 <!-- What kind of scalar results from the measurements are of interest to us? T_final, T_middle etc, mention also the cloud sizes and the relation to the experiment's measurement methods -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTQyNDUzMywtMTE3ODQ5MDE5NiwtOT
+eyJoaXN0b3J5IjpbLTIyNjYzMjgwMCwtMTE3ODQ5MDE5NiwtOT
 Y3NDM1NjgxLC0xNTk4MjIzLDExNzc2ODE3OCwtNDQ2MzE1NTY3
 LDExMzY4OTc5MjcsMjQ4ODM1MjI5LC01NTAzMjU0MTMsLTExMj
 YzMzk5OTQsMTAwNTc4Njc3OCwtMTM0NzEwNzA1NywtNjA0MDYz
