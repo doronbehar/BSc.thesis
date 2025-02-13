@@ -34,18 +34,17 @@ Cooling, stabilizing time, rf divisor
 # Cooling Simulations
 ## LASER cooling parameters
 <!-- Show graph of optimal delta and intensity parameters -->
-### Intensity
-### Windows Attenuation
-### Detuning ($\delta$
+### Intensity ($\Omega/\Gamma$) & Vacuum Chamber Windows Attenuation
+### Detuning ($\delta/\Gamma$)
 ## LASER Cooling Intrusion Angle(s) & Trap Geometry
 ## CHDBrI+ Concentration & Total #Ions Dependence
 # Appendix: Simulation Software Manual & Technical Details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTM3MzEzOCwtMTk0ODg0ODk3LDEwMj
-EzODkxMjEsLTExNzg0OTAxOTYsLTk2NzQzNTY4MSwtMTU5ODIy
-MywxMTc3NjgxNzgsLTQ0NjMxNTU2NywxMTM2ODk3OTI3LDI0OD
-gzNTIyOSwtNTUwMzI1NDEzLC0xMTI2MzM5OTk0LDEwMDU3ODY3
-NzgsLTEzNDcxMDcwNTcsLTYwNDA2MzAxLC0zNjg2NjA4ODcsLT
-EyNjEyMzAwMzcsNTQxNTA1NDgwLDE3NjQ3NDU5MzksMTEzNjMz
-MDk0NF19
+eyJoaXN0b3J5IjpbLTE3ODcyNzY2OTUsLTE5NDg4NDg5NywxMD
+IxMzg5MTIxLC0xMTc4NDkwMTk2LC05Njc0MzU2ODEsLTE1OTgy
+MjMsMTE3NzY4MTc4LC00NDYzMTU1NjcsMTEzNjg5NzkyNywyND
+g4MzUyMjksLTU1MDMyNTQxMywtMTEyNjMzOTk5NCwxMDA1Nzg2
+Nzc4LC0xMzQ3MTA3MDU3LC02MDQwNjMwMSwtMzY4NjYwODg3LC
+0xMjYxMjMwMDM3LDU0MTUwNTQ4MCwxNzY0NzQ1OTM5LDExMzYz
+MzA5NDRdfQ==
 -->
