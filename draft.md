@@ -10,10 +10,10 @@ Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at th
 ## Our experimental scheme
 <!-- Explain about our the general scheme, or cite something? -->
 <!-- Explain about our ion trap in details, especially details relevant to the velocity / kinetic energy resolution required and hence the maximal temperatures required.-->
-### Comparison to typical ion trap setups
-
+### Comparison to typical molecular ion trapping setups
+### Literatur
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODQ5MjExNSwtNDQ2MzE1NTY3LDExMz
+eyJoaXN0b3J5IjpbMTA1ODQxNzQ4MCwtNDQ2MzE1NTY3LDExMz
 Y4OTc5MjcsMjQ4ODM1MjI5LC01NTAzMjU0MTMsLTExMjYzMzk5
 OTQsMTAwNTc4Njc3OCwtMTM0NzEwNzA1NywtNjA0MDYzMDEsLT
 M2ODY2MDg4NywtMTI2MTIzMDAzNyw1NDE1MDU0ODAsMTc2NDc0
