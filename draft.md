@@ -35,15 +35,17 @@ Cooling, stabilizing time, rf divisor
 ## LASER cooling parameters
 <!-- Show graph of optimal delta and intensity parameters -->
 ### Intensity
-
 ### Detuning
+### Intrusion Angle(s)
+### Windows attenuation
+### 
 # Appendix: Simulation Software Manual & Technical Details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc5MjE3MDYsLTE5NDg4NDg5NywxMD
-IxMzg5MTIxLC0xMTc4NDkwMTk2LC05Njc0MzU2ODEsLTE1OTgy
-MjMsMTE3NzY4MTc4LC00NDYzMTU1NjcsMTEzNjg5NzkyNywyND
-g4MzUyMjksLTU1MDMyNTQxMywtMTEyNjMzOTk5NCwxMDA1Nzg2
-Nzc4LC0xMzQ3MTA3MDU3LC02MDQwNjMwMSwtMzY4NjYwODg3LC
-0xMjYxMjMwMDM3LDU0MTUwNTQ4MCwxNzY0NzQ1OTM5LDExMzYz
-MzA5NDRdfQ==
+eyJoaXN0b3J5IjpbLTYwMTMzOTAwOCwtMTk0ODg0ODk3LDEwMj
+EzODkxMjEsLTExNzg0OTAxOTYsLTk2NzQzNTY4MSwtMTU5ODIy
+MywxMTc3NjgxNzgsLTQ0NjMxNTU2NywxMTM2ODk3OTI3LDI0OD
+gzNTIyOSwtNTUwMzI1NDEzLC0xMTI2MzM5OTk0LDEwMDU3ODY3
+NzgsLTEzNDcxMDcwNTcsLTYwNDA2MzAxLC0zNjg2NjA4ODcsLT
+EyNjEyMzAwMzcsNTQxNTA1NDgwLDE3NjQ3NDU5MzksMTEzNjMz
+MDk0NF19
 -->
