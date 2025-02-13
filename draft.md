@@ -29,13 +29,14 @@ Cooling, stabilizing time, rf divisor
 # Computational Challenges before Simulating
 ## Converting Secular Frequencies to Electric Fields
 ## Initial Conditions Thermodynamic Stability
+
 # Appendix: Simulation Software Manual & Technical Details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY3NzM2ODksMTAyMTM4OTEyMSwtMT
-E3ODQ5MDE5NiwtOTY3NDM1NjgxLC0xNTk4MjIzLDExNzc2ODE3
-OCwtNDQ2MzE1NTY3LDExMzY4OTc5MjcsMjQ4ODM1MjI5LC01NT
-AzMjU0MTMsLTExMjYzMzk5OTQsMTAwNTc4Njc3OCwtMTM0NzEw
-NzA1NywtNjA0MDYzMDEsLTM2ODY2MDg4NywtMTI2MTIzMDAzNy
-w1NDE1MDU0ODAsMTc2NDc0NTkzOSwxMTM2MzMwOTQ0LC0xOTYz
-MTc4MDRdfQ==
+eyJoaXN0b3J5IjpbMjkyODI0NSwxMDIxMzg5MTIxLC0xMTc4ND
+kwMTk2LC05Njc0MzU2ODEsLTE1OTgyMjMsMTE3NzY4MTc4LC00
+NDYzMTU1NjcsMTEzNjg5NzkyNywyNDg4MzUyMjksLTU1MDMyNT
+QxMywtMTEyNjMzOTk5NCwxMDA1Nzg2Nzc4LC0xMzQ3MTA3MDU3
+LC02MDQwNjMwMSwtMzY4NjYwODg3LC0xMjYxMjMwMDM3LDU0MT
+UwNTQ4MCwxNzY0NzQ1OTM5LDExMzYzMzA5NDQsLTE5NjMxNzgw
+NF19
 -->
