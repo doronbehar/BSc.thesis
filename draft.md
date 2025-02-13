@@ -26,9 +26,11 @@ Cooling, stabilizing time, rf divisor
 ## Output Results Types
 <!-- What kind of scalar results from the measurements are of interest to us? T_final, T_middle etc, mention also the cloud sizes and the relation to the experiment's measurement methods -->
 <!-- Naturally, explain the behavior of the cooling regimes etc. -->
-## Appendix: Simulation Software Manual & Technical Details
+# 
+
+# Appendix: Simulation Software Manual & Technical Details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ2OTU2ODcsMTAyMTM4OTEyMSwtMT
+eyJoaXN0b3J5IjpbLTE4MTA1MjE3NTEsMTAyMTM4OTEyMSwtMT
 E3ODQ5MDE5NiwtOTY3NDM1NjgxLC0xNTk4MjIzLDExNzc2ODE3
 OCwtNDQ2MzE1NTY3LDExMzY4OTc5MjcsMjQ4ODM1MjI5LC01NT
 AzMjU0MTMsLTExMjYzMzk5OTQsMTAwNTc4Njc3OCwtMTM0NzEw
