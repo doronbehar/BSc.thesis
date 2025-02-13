@@ -36,12 +36,12 @@ Cooling, stabilizing time, rf divisor
 <!-- Show graph of optimal delta and intensity parameters -->
 ### Intensity
 ### Windows Attenuation
-### Detuning
+### Detuning ($\delta$
 ## LASER Cooling Intrusion Angle(s) & Trap Geometry
-## Dependence on 
+## CHDBrI+ Concentration & Total #Ions Dependence
 # Appendix: Simulation Software Manual & Technical Details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzY2Nzk5NSwtMTk0ODg0ODk3LDEwMj
+eyJoaXN0b3J5IjpbMTY1OTM3MzEzOCwtMTk0ODg0ODk3LDEwMj
 EzODkxMjEsLTExNzg0OTAxOTYsLTk2NzQzNTY4MSwtMTU5ODIy
 MywxMTc3NjgxNzgsLTQ0NjMxNTU2NywxMTM2ODk3OTI3LDI0OD
 gzNTIyOSwtNTUwMzI1NDEzLC0xMTI2MzM5OTk0LDEwMDU3ODY3
