@@ -13,8 +13,9 @@ Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at th
 ### Comparison to typical molecular ion trapping setups
 ### All trapping and cooling parameters
 <!-- Mention the challenge of initializing the system in a thermodynamic stable condition -->
+### Output results 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjcxODY3MywtMTU5ODIyMywxMTc3Nj
+eyJoaXN0b3J5IjpbMTQ5NjA2NTg5OSwtMTU5ODIyMywxMTc3Nj
 gxNzgsLTQ0NjMxNTU2NywxMTM2ODk3OTI3LDI0ODgzNTIyOSwt
 NTUwMzI1NDEzLC0xMTI2MzM5OTk0LDEwMDU3ODY3NzgsLTEzND
 cxMDcwNTcsLTYwNDA2MzAxLC0zNjg2NjA4ODcsLTEyNjEyMzAw
