@@ -22,11 +22,13 @@ Detuning and intensity were barely studied in previous research..., cooler (Yb/C
 Cooling, stabilizing time, rf divisor 
 <!-- Mention the challenge of initializing the system in a thermodynamic stable condition -->
 <!-- Mention the relation of intensity to mW/cm^2-->
+<!-- Mention the challenge 
 ## Output results types
 <!-- What kind of scalar results from the measurements are of interest to us? T_final, T_middle etc, mention also the cloud sizes and the relation to the experiment's measurement methods -->
-<!-- Naturally explain the behavior of 
+<!-- Naturally explain the behavior of the cooling regimes etc -->
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDIxMzI5NDIsLTExNzg0OTAxOTYsLT
+eyJoaXN0b3J5IjpbLTE3MTgxOTc1OTUsLTExNzg0OTAxOTYsLT
 k2NzQzNTY4MSwtMTU5ODIyMywxMTc3NjgxNzgsLTQ0NjMxNTU2
 NywxMTM2ODk3OTI3LDI0ODgzNTIyOSwtNTUwMzI1NDEzLC0xMT
 I2MzM5OTk0LDEwMDU3ODY3NzgsLTEzNDcxMDcwNTcsLTYwNDA2
