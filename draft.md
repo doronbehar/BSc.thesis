@@ -25,14 +25,14 @@ Cooling, stabilizing time, rf divisor
 <!-- Put all the onenote's technical challenges related content here -->
 ## Output results types
 <!-- What kind of scalar results from the measurements are of interest to us? T_final, T_middle etc, mention also the cloud sizes and the relation to the experiment's measurement methods -->
-<!-- Naturally explain the behavior of the cooling regimes etc -->
-
+<!-- Naturally, explain the behavior of the cooling regimes etc. -->
+## Appendix: Manual & Technical details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTM4OTEyMSwtMTE3ODQ5MDE5NiwtOT
-Y3NDM1NjgxLC0xNTk4MjIzLDExNzc2ODE3OCwtNDQ2MzE1NTY3
-LDExMzY4OTc5MjcsMjQ4ODM1MjI5LC01NTAzMjU0MTMsLTExMj
-YzMzk5OTQsMTAwNTc4Njc3OCwtMTM0NzEwNzA1NywtNjA0MDYz
-MDEsLTM2ODY2MDg4NywtMTI2MTIzMDAzNyw1NDE1MDU0ODAsMT
-c2NDc0NTkzOSwxMTM2MzMwOTQ0LC0xOTYzMTc4MDQsNzU4MDc3
-Njc1XX0=
+eyJoaXN0b3J5IjpbMTgyMzc2NDc5MywxMDIxMzg5MTIxLC0xMT
+c4NDkwMTk2LC05Njc0MzU2ODEsLTE1OTgyMjMsMTE3NzY4MTc4
+LC00NDYzMTU1NjcsMTEzNjg5NzkyNywyNDg4MzUyMjksLTU1MD
+MyNTQxMywtMTEyNjMzOTk5NCwxMDA1Nzg2Nzc4LC0xMzQ3MTA3
+MDU3LC02MDQwNjMwMSwtMzY4NjYwODg3LC0xMjYxMjMwMDM3LD
+U0MTUwNTQ4MCwxNzY0NzQ1OTM5LDExMzYzMzA5NDQsLTE5NjMx
+NzgwNF19
 -->
