@@ -3,13 +3,12 @@ The weak force in the standard model is considered to be responsible for energy 
 Standard model numerical calculations predict this weak force shift, also referred to as parity violation (PV) shift to be $\Delta_{PV} = 1.8Hz$ at best, in the C-H wag vibration of CHDBrI+ <!--TODO: Cite-->, while the vibration itself is at the (IR) frequency of $\nu_v = 33 (\sim 9 \mu m)$!
 The C-H wag vibrational frequency of our candidate enantiomers, as well as for other molecules we considered, is roughly $23\pm 4 \,\mathrm{cm^{-1}}$ times higher then the lowest frequency vibration, with 7 additional vibrational frequencies in between. This implies that the lifetime of the excited C-H wag vibrating state of any of our most promising candidate molecules will be limited by intra-molecular vibration redistribution (IVR). An estimate of the extent of this limitation was calculated numerically and it's results are described in detail in this thesis. In <!--TODO: cite--> you can find a brief summary of the results.
 Our $\Delta_{PV}$ measurement plan, broadly speaking consists of (1) initializing our candidate molecule (CHDBrI), (2) ionizing it, (3) sympathetically cool it with an easily LASER cooled metal (Yb+ in our current attempts), (4) employ a 3 wave mixing technique to create an enantiomer-selective quantum interference, which separates enantiomers into different quantum state. <!--TODO: Cite Itay's thesis, or our group's articles, an article about sympathetic cooling-->
-Sympathetically cooling a molecule is well known, already accomplished achievement, <!--TODO: Cite a few examples -->. However, _our_ measurement plan is substantially different from the experimental schemes employed in other experiments in which molecules are sympathetically cooled, because the molecule initialization is not trivial. In our experiment's plan the molecule is trapped for periods $<100ms$, and hence the cooling must be as effective as possible. Not only that, our trap design is unique in the field of ion trapping and cooling, and it provides us a flexible range of secular frequencies that are not used often. A brief comparison to typical trapping experiments is laid out in the introduction. <!--TODO: hyperlink-->
-This non-typical setup and requirements invites a thorough research on the parameter space of the trapping, cooling, via simulations, and this is the main effo
+Sympathetically cooling a molecule is well known, already accomplished achievement, <!--TODO: Cite a few examples -->. However, _our_ measurement plan is substantially different from the experimental schemes employed in other experiments in which molecules are sympathetically cooled, because the molecule initialization is not trivial. In our experiment's plan the molecule is trapped for periods $<100ms$, and hence the cooling must be as effective as possible. Not only that, our trap design is unique in the field of ion trapping and cooling, and it provides us a flexible range of secular frequencies that are not used often. A brief comparison to typical trapping experiments is laid out in the introduction. <!--TODO: hyperlink--> This non-typical setup and requirements invites a thorough simulations based research on the parameter space of the trapping & LASER cooling, which is the main topic of this thesis.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzQ5MTE2NiwtNTUwMzI1NDEzLC0xMT
-I2MzM5OTk0LDEwMDU3ODY3NzgsLTEzNDcxMDcwNTcsLTYwNDA2
-MzAxLC0zNjg2NjA4ODcsLTEyNjEyMzAwMzcsNTQxNTA1NDgwLD
-E3NjQ3NDU5MzksMTEzNjMzMDk0NCwtMTk2MzE3ODA0LDc1ODA3
-NzY3NSwtMTg1NTIzMzk5MiwtMjA4ODc0NjYxMiwtMzMyNDU1Mz
-YzXX0=
+eyJoaXN0b3J5IjpbMTkwNjU3MTIyLC01NTAzMjU0MTMsLTExMj
+YzMzk5OTQsMTAwNTc4Njc3OCwtMTM0NzEwNzA1NywtNjA0MDYz
+MDEsLTM2ODY2MDg4NywtMTI2MTIzMDAzNyw1NDE1MDU0ODAsMT
+c2NDc0NTkzOSwxMTM2MzMwOTQ0LC0xOTYzMTc4MDQsNzU4MDc3
+Njc1LC0xODU1MjMzOTkyLC0yMDg4NzQ2NjEyLC0zMzI0NTUzNj
+NdfQ==
 -->
