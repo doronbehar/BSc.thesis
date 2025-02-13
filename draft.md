@@ -24,13 +24,13 @@ Cooling, stabilizing time, rf divisor
 <!-- Mention the relation of intensity to mW/cm^2-->
 ## Output results types
 <!-- What kind of scalar results from the measurements are of interest to us? T_final, T_middle etc, mention also the cloud sizes and the relation to the experiment's measurement methods -->
-
+<!-- Naturally explain the behavior of 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMzk2NTg2LC0xMTc4NDkwMTk2LC05Nj
-c0MzU2ODEsLTE1OTgyMjMsMTE3NzY4MTc4LC00NDYzMTU1Njcs
-MTEzNjg5NzkyNywyNDg4MzUyMjksLTU1MDMyNTQxMywtMTEyNj
-MzOTk5NCwxMDA1Nzg2Nzc4LC0xMzQ3MTA3MDU3LC02MDQwNjMw
-MSwtMzY4NjYwODg3LC0xMjYxMjMwMDM3LDU0MTUwNTQ4MCwxNz
-Y0NzQ1OTM5LDExMzYzMzA5NDQsLTE5NjMxNzgwNCw3NTgwNzc2
-NzVdfQ==
+eyJoaXN0b3J5IjpbLTE3MDIxMzI5NDIsLTExNzg0OTAxOTYsLT
+k2NzQzNTY4MSwtMTU5ODIyMywxMTc3NjgxNzgsLTQ0NjMxNTU2
+NywxMTM2ODk3OTI3LDI0ODgzNTIyOSwtNTUwMzI1NDEzLC0xMT
+I2MzM5OTk0LDEwMDU3ODY3NzgsLTEzNDcxMDcwNTcsLTYwNDA2
+MzAxLC0zNjg2NjA4ODcsLTEyNjEyMzAwMzcsNTQxNTA1NDgwLD
+E3NjQ3NDU5MzksMTEzNjMzMDk0NCwtMTk2MzE3ODA0LDc1ODA3
+NzY3NV19
 -->
