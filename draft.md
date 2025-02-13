@@ -4,12 +4,15 @@ Standard model numerical calculations predict this weak force shift, also referr
 Our $\Delta_{PV}$ measurement plan, broadly speaking consists of (1) initializing our candidate molecule (CHDBrI), (2) ionizing it, (3) sympathetically cool it with an easily LASER cooled metal (Yb+ in our current attempts), (4) employ a 3 wave mixing technique to create an enantiomer-selective quantum interference, which separates enantiomers into different quantum state. <!--TODO: Cite Itay's thesis, or our group's articles, an article about sympathetic cooling--> Sympathetically cooling a molecule is well known, already accomplished achievement, <!--TODO: Cite a few examples -->. However, _our_ measurement plan is substantially different from the typical experimental schemes employed in other experiments in which molecules are sympathetically cooled, because the molecule initialization is not trivial. In our experiment's plan the molecule is trapped for periods $<100ms$, and hence the cooling must be as effective as possible. Not only that, our trap design is unique in the field of ion trapping and cooling, and it provides us a flexible range of secular frequencies that are not used often. A brief comparison to typical trapping experiments is laid out in the introduction. <!--TODO: hyperlink--> This non-typical setup and requirements invites a thorough simulations based research on the parameter space of the trapping & LASER cooling, which is the main topic of this thesis.
 Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at the end of the thesis. This LASER is required for optical pumping 1% of the Yb+ ions that are supposed to sympathetically cool our CHDBrI+.
 # Introduction
+## What are chiral molecules?
+<!--TODO: Slightly copy from Itay Erez's thesis? Or simply cite it?
+## 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4ODM1MjI5LC01NTAzMjU0MTMsLTExMj
-YzMzk5OTQsMTAwNTc4Njc3OCwtMTM0NzEwNzA1NywtNjA0MDYz
-MDEsLTM2ODY2MDg4NywtMTI2MTIzMDAzNyw1NDE1MDU0ODAsMT
-c2NDc0NTkzOSwxMTM2MzMwOTQ0LC0xOTYzMTc4MDQsNzU4MDc3
-Njc1LC0xODU1MjMzOTkyLC0yMDg4NzQ2NjEyLC0zMzI0NTUzNj
-NdfQ==
+eyJoaXN0b3J5IjpbMTcxMzczNjQyNCwyNDg4MzUyMjksLTU1MD
+MyNTQxMywtMTEyNjMzOTk5NCwxMDA1Nzg2Nzc4LC0xMzQ3MTA3
+MDU3LC02MDQwNjMwMSwtMzY4NjYwODg3LC0xMjYxMjMwMDM3LD
+U0MTUwNTQ4MCwxNzY0NzQ1OTM5LDExMzYzMzA5NDQsLTE5NjMx
+NzgwNCw3NTgwNzc2NzUsLTE4NTUyMzM5OTIsLTIwODg3NDY2MT
+IsLTMzMjQ1NTM2M119
 -->
