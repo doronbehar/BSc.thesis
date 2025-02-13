@@ -12,13 +12,13 @@ Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at th
 <!-- Explain about our ion trap in details, especially details relevant to the velocity / kinetic energy resolution required and hence the maximal temperatures required.-->
 ### Comparison to typical molecular ion trapping setups
 ### All trapping and cooling parameters
-### 
+<!-- Mention the challenge of initializing the system in a thermodynamic stable condition -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTgyMjMsMTE3NzY4MTc4LC00NDYzMT
-U1NjcsMTEzNjg5NzkyNywyNDg4MzUyMjksLTU1MDMyNTQxMywt
-MTEyNjMzOTk5NCwxMDA1Nzg2Nzc4LC0xMzQ3MTA3MDU3LC02MD
-QwNjMwMSwtMzY4NjYwODg3LC0xMjYxMjMwMDM3LDU0MTUwNTQ4
-MCwxNzY0NzQ1OTM5LDExMzYzMzA5NDQsLTE5NjMxNzgwNCw3NT
-gwNzc2NzUsLTE4NTUyMzM5OTIsLTIwODg3NDY2MTIsLTMzMjQ1
-NTM2M119
+eyJoaXN0b3J5IjpbLTM5NjcxODY3MywtMTU5ODIyMywxMTc3Nj
+gxNzgsLTQ0NjMxNTU2NywxMTM2ODk3OTI3LDI0ODgzNTIyOSwt
+NTUwMzI1NDEzLC0xMTI2MzM5OTk0LDEwMDU3ODY3NzgsLTEzND
+cxMDcwNTcsLTYwNDA2MzAxLC0zNjg2NjA4ODcsLTEyNjEyMzAw
+MzcsNTQxNTA1NDgwLDE3NjQ3NDU5MzksMTEzNjMzMDk0NCwtMT
+k2MzE3ODA0LDc1ODA3NzY3NSwtMTg1NTIzMzk5MiwtMjA4ODc0
+NjYxMl19
 -->
