@@ -23,20 +23,20 @@ Detuning and intensity were barely studied in previous research..., cooler (Yb/C
 Cooling, stabilizing time, rf divisor 
 <!-- Mention the challenge of initializing the system in a thermodynamic stable condition -->
 <!-- Put all the onenote's technical challenges related content here -->
-## Output Results Types
+## Output Result Types
 <!-- What kind of scalar results from the measurements are of interest to us? T_final, T_middle etc, mention also the cloud sizes and the relation to the experiment's measurement methods -->
 <!-- Naturally, explain the behavior of the cooling regimes etc. -->
 # Computational Challenges before Simulating
 ## Converting Secular Frequencies to Electric Fields
 ## Initial Conditions Thermodynamic Stability
-
+# Cooling Simulations Results
 # Appendix: Simulation Software Manual & Technical Details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyODI0NSwxMDIxMzg5MTIxLC0xMTc4ND
-kwMTk2LC05Njc0MzU2ODEsLTE1OTgyMjMsMTE3NzY4MTc4LC00
-NDYzMTU1NjcsMTEzNjg5NzkyNywyNDg4MzUyMjksLTU1MDMyNT
-QxMywtMTEyNjMzOTk5NCwxMDA1Nzg2Nzc4LC0xMzQ3MTA3MDU3
-LC02MDQwNjMwMSwtMzY4NjYwODg3LC0xMjYxMjMwMDM3LDU0MT
-UwNTQ4MCwxNzY0NzQ1OTM5LDExMzYzMzA5NDQsLTE5NjMxNzgw
-NF19
+eyJoaXN0b3J5IjpbODY1NzgwMDQ0LDEwMjEzODkxMjEsLTExNz
+g0OTAxOTYsLTk2NzQzNTY4MSwtMTU5ODIyMywxMTc3NjgxNzgs
+LTQ0NjMxNTU2NywxMTM2ODk3OTI3LDI0ODgzNTIyOSwtNTUwMz
+I1NDEzLC0xMTI2MzM5OTk0LDEwMDU3ODY3NzgsLTEzNDcxMDcw
+NTcsLTYwNDA2MzAxLC0zNjg2NjA4ODcsLTEyNjEyMzAwMzcsNT
+QxNTA1NDgwLDE3NjQ3NDU5MzksMTEzNjMzMDk0NCwtMTk2MzE3
+ODA0XX0=
 -->
