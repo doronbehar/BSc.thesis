@@ -8,12 +8,14 @@ Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at th
 <!--TODO: Slightly copy from Itay Erez's thesis? Or simply cite it? -->
 <!--TODO: Explain in more detail about our candidates and from there talk about IVR -->
 ## Our experimental scheme
-<!--TODO: Explain about our ion trap,  -->
+<!--TODO: Explain about our the general scheme, or cite something? -->
+<!--TODO: Explain about our ion trap in details, especially details relevant to the velocity / kinetic energy resolution required and hence the maximal temperatures required.-->
+<!--TODO: Explain about our ion trap in details, especially details relevant to the velocity / kinetic energy resolution required and hence the maximal temperatures required.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc1Mjc5MTgsMjQ4ODM1MjI5LC01NT
-AzMjU0MTMsLTExMjYzMzk5OTQsMTAwNTc4Njc3OCwtMTM0NzEw
-NzA1NywtNjA0MDYzMDEsLTM2ODY2MDg4NywtMTI2MTIzMDAzNy
-w1NDE1MDU0ODAsMTc2NDc0NTkzOSwxMTM2MzMwOTQ0LC0xOTYz
-MTc4MDQsNzU4MDc3Njc1LC0xODU1MjMzOTkyLC0yMDg4NzQ2Nj
-EyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMTcyNjQ5MzIxMCwyNDg4MzUyMjksLTU1MD
+MyNTQxMywtMTEyNjMzOTk5NCwxMDA1Nzg2Nzc4LC0xMzQ3MTA3
+MDU3LC02MDQwNjMwMSwtMzY4NjYwODg3LC0xMjYxMjMwMDM3LD
+U0MTUwNTQ4MCwxNzY0NzQ1OTM5LDExMzYzMzA5NDQsLTE5NjMx
+NzgwNCw3NTgwNzc2NzUsLTE4NTUyMzM5OTIsLTIwODg3NDY2MT
+IsLTMzMjQ1NTM2M119
 -->
