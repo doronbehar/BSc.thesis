@@ -18,21 +18,21 @@ From the point of view of a computer simulation, all the parameters can be divid
 Frequencies..., pseudo, 
 ### Cooling
 Detuning and intensity were barely studied in previous research..., cooler (Yb/Ca/Be)
+<!-- Mention the relation of intensity to mW/cm^2-->
 ### Technical
 Cooling, stabilizing time, rf divisor 
 <!-- Mention the challenge of initializing the system in a thermodynamic stable condition -->
-<!-- Mention the relation of intensity to mW/cm^2-->
-<!-- Mention the challenge 
+<!-- Put all the onenote's technical challenges related content here -->
 ## Output results types
 <!-- What kind of scalar results from the measurements are of interest to us? T_final, T_middle etc, mention also the cloud sizes and the relation to the experiment's measurement methods -->
 <!-- Naturally explain the behavior of the cooling regimes etc -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgxOTc1OTUsLTExNzg0OTAxOTYsLT
-k2NzQzNTY4MSwtMTU5ODIyMywxMTc3NjgxNzgsLTQ0NjMxNTU2
-NywxMTM2ODk3OTI3LDI0ODgzNTIyOSwtNTUwMzI1NDEzLC0xMT
-I2MzM5OTk0LDEwMDU3ODY3NzgsLTEzNDcxMDcwNTcsLTYwNDA2
-MzAxLC0zNjg2NjA4ODcsLTEyNjEyMzAwMzcsNTQxNTA1NDgwLD
-E3NjQ3NDU5MzksMTEzNjMzMDk0NCwtMTk2MzE3ODA0LDc1ODA3
-NzY3NV19
+eyJoaXN0b3J5IjpbMTAyMTM4OTEyMSwtMTE3ODQ5MDE5NiwtOT
+Y3NDM1NjgxLC0xNTk4MjIzLDExNzc2ODE3OCwtNDQ2MzE1NTY3
+LDExMzY4OTc5MjcsMjQ4ODM1MjI5LC01NTAzMjU0MTMsLTExMj
+YzMzk5OTQsMTAwNTc4Njc3OCwtMTM0NzEwNzA1NywtNjA0MDYz
+MDEsLTM2ODY2MDg4NywtMTI2MTIzMDAzNyw1NDE1MDU0ODAsMT
+c2NDc0NTkzOSwxMTM2MzMwOTQ0LC0xOTYzMTc4MDQsNzU4MDc3
+Njc1XX0=
 -->
