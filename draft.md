@@ -14,13 +14,13 @@ Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at th
 ### All trapping and cooling parameters
 <!-- Mention the challenge of initializing the system in a thermodynamic stable condition -->
 ### Output results types
-<!-- What kind of scalar results from the measurements are of interest to us? -->
+<!-- What kind of scalar results from the measurements are of interest to us? T_final, T_middle etc, mention also the cloud sizes -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzQzNTY4MSwtMTU5ODIyMywxMTc3Nj
-gxNzgsLTQ0NjMxNTU2NywxMTM2ODk3OTI3LDI0ODgzNTIyOSwt
-NTUwMzI1NDEzLC0xMTI2MzM5OTk0LDEwMDU3ODY3NzgsLTEzND
-cxMDcwNTcsLTYwNDA2MzAxLC0zNjg2NjA4ODcsLTEyNjEyMzAw
-MzcsNTQxNTA1NDgwLDE3NjQ3NDU5MzksMTEzNjMzMDk0NCwtMT
-k2MzE3ODA0LDc1ODA3NzY3NSwtMTg1NTIzMzk5MiwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbMzQyOTAxNTM5LC05Njc0MzU2ODEsLTE1OT
+gyMjMsMTE3NzY4MTc4LC00NDYzMTU1NjcsMTEzNjg5NzkyNywy
+NDg4MzUyMjksLTU1MDMyNTQxMywtMTEyNjMzOTk5NCwxMDA1Nz
+g2Nzc4LC0xMzQ3MTA3MDU3LC02MDQwNjMwMSwtMzY4NjYwODg3
+LC0xMjYxMjMwMDM3LDU0MTUwNTQ4MCwxNzY0NzQ1OTM5LDExMz
+YzMzA5NDQsLTE5NjMxNzgwNCw3NTgwNzc2NzUsLTE4NTUyMzM5
+OTJdfQ==
 -->
