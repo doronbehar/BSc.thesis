@@ -4,15 +4,15 @@ Standard model numerical calculations predict this weak force shift, also referr
 Our $\Delta_{PV}$ measurement plan, broadly speaking consists of (1) initializing our candidate molecule (CHDBrI), (2) ionizing it, (3) sympathetically cool it with an easily LASER cooled metal (Yb+ in our current attempts), (4) employ a 3 wave mixing technique to create an enantiomer-selective quantum interference, which separates enantiomers into different quantum state. <!-- Cite Itay's thesis, or our group's articles, an article about sympathetic cooling--> Sympathetically cooling a molecule is well known, already accomplished achievement, <!-- Cite a few examples -->. However, _our_ measurement plan is substantially different from the typical experimental schemes employed in other experiments in which molecules are sympathetically cooled, because the molecule initialization is not trivial. In our experiment's plan the molecule is trapped for periods $<100ms$, and hence the cooling must be as effective as possible. Not only that, our trap design is unique in the field of ion trapping and cooling, and it provides us a flexible range of secular frequencies that are not used often. A brief comparison to typical trapping experiments is laid out in the introduction. <!--hyperlink--> This non-typical setup and requirements invites a thorough simulations based research on the parameter space of the trapping & LASER cooling, which is the main topic of this thesis.
 Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at the end of the thesis. This LASER is required for optical pumping 1% of the Yb+ ions that are supposed to sympathetically cool our CHDBrI+.
 # Introduction
-## What are chiral molecules?
+## What are Chiral Molecules?
 <!-- Slightly copy from Itay Erez's thesis? Or simply cite it? -->
 <!-- Explain in more detail about our candidates and from there talk about IVR -->
-## Our experimental scheme
+## Our Experimental Scheme
 <!-- Explain about our the general scheme, or cite something? -->
 <!-- Explain about our ion trap in details, especially details relevant to the velocity / kinetic energy resolution required and hence the maximal temperatures required.-->
 <!-- Show the level diagram for Yb+ and from there justify the need for a 935nm LASER -->
 <!-- Comparison to typical molecular ion trapping setups -->
-## All trapping and cooling parameters
+## All Trapping and Cooling Parameters
 From the point of view of a computer simulation, all the parameters can be divided to the groups laid out below:
 ### Trapping
 Frequencies..., pseudo, 
@@ -23,16 +23,16 @@ Detuning and intensity were barely studied in previous research..., cooler (Yb/C
 Cooling, stabilizing time, rf divisor 
 <!-- Mention the challenge of initializing the system in a thermodynamic stable condition -->
 <!-- Put all the onenote's technical challenges related content here -->
-## Output results types
+## Output Results Types
 <!-- What kind of scalar results from the measurements are of interest to us? T_final, T_middle etc, mention also the cloud sizes and the relation to the experiment's measurement methods -->
 <!-- Naturally, explain the behavior of the cooling regimes etc. -->
-## Appendix: Manual & Technical details
+## Appendix: Simulation Software Manual & Technical Details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzc2NDc5MywxMDIxMzg5MTIxLC0xMT
-c4NDkwMTk2LC05Njc0MzU2ODEsLTE1OTgyMjMsMTE3NzY4MTc4
-LC00NDYzMTU1NjcsMTEzNjg5NzkyNywyNDg4MzUyMjksLTU1MD
-MyNTQxMywtMTEyNjMzOTk5NCwxMDA1Nzg2Nzc4LC0xMzQ3MTA3
-MDU3LC02MDQwNjMwMSwtMzY4NjYwODg3LC0xMjYxMjMwMDM3LD
-U0MTUwNTQ4MCwxNzY0NzQ1OTM5LDExMzYzMzA5NDQsLTE5NjMx
-NzgwNF19
+eyJoaXN0b3J5IjpbLTEyNDQ2OTU2ODcsMTAyMTM4OTEyMSwtMT
+E3ODQ5MDE5NiwtOTY3NDM1NjgxLC0xNTk4MjIzLDExNzc2ODE3
+OCwtNDQ2MzE1NTY3LDExMzY4OTc5MjcsMjQ4ODM1MjI5LC01NT
+AzMjU0MTMsLTExMjYzMzk5OTQsMTAwNTc4Njc3OCwtMTM0NzEw
+NzA1NywtNjA0MDYzMDEsLTM2ODY2MDg4NywtMTI2MTIzMDAzNy
+w1NDE1MDU0ODAsMTc2NDc0NTkzOSwxMTM2MzMwOTQ0LC0xOTYz
+MTc4MDRdfQ==
 -->
