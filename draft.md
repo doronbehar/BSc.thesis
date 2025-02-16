@@ -13,7 +13,7 @@ Finally, a few details of a $935\,\mathrm{nm}$ LASER diode setup are shown at th
 <!-- Show the level diagram for Yb+ and from there justify the need for a 935nm LASER -->
 <!-- Comparison to typical molecular ion trapping setups -->
 ## All Trapping and Cooling Parameters
-The From the point of view of a computer simulation, all the parameters that can control the can be divided to the groups laid out below:
+The experimental scheme described above justifies a thorough optimization of the cooling process, and hence From the point of view of a computer simulation, all the parameters that can control the can be divided to the groups laid out below:
 ### Trapping
 Frequencies..., pseudo, 
 ### Cooling
@@ -40,11 +40,11 @@ Cooling, stabilizing time, rf divisor
 ## CHDBrI+ Concentration & Total #Ions Dependence
 # Appendix: Simulation Software Manual & Technical Details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTA5NTY4NSwtMTc4NzI3NjY5NSwtMT
-k0ODg0ODk3LDEwMjEzODkxMjEsLTExNzg0OTAxOTYsLTk2NzQz
-NTY4MSwtMTU5ODIyMywxMTc3NjgxNzgsLTQ0NjMxNTU2NywxMT
-M2ODk3OTI3LDI0ODgzNTIyOSwtNTUwMzI1NDEzLC0xMTI2MzM5
-OTk0LDEwMDU3ODY3NzgsLTEzNDcxMDcwNTcsLTYwNDA2MzAxLC
-0zNjg2NjA4ODcsLTEyNjEyMzAwMzcsNTQxNTA1NDgwLDE3NjQ3
-NDU5MzldfQ==
+eyJoaXN0b3J5IjpbLTEwMTI2OTg4OTgsLTE3ODcyNzY2OTUsLT
+E5NDg4NDg5NywxMDIxMzg5MTIxLC0xMTc4NDkwMTk2LC05Njc0
+MzU2ODEsLTE1OTgyMjMsMTE3NzY4MTc4LC00NDYzMTU1NjcsMT
+EzNjg5NzkyNywyNDg4MzUyMjksLTU1MDMyNTQxMywtMTEyNjMz
+OTk5NCwxMDA1Nzg2Nzc4LC0xMzQ3MTA3MDU3LC02MDQwNjMwMS
+wtMzY4NjYwODg3LC0xMjYxMjMwMDM3LDU0MTUwNTQ4MCwxNzY0
+NzQ1OTM5XX0=
 -->
